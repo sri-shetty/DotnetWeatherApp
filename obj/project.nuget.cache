@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZNdHL+wcooZ/krS+numavjD1DZNnuixqYAb0LE60WcPMuwASWxIrohVOsOxKTFPM3F7H4ilriax0c2ev8/Ihqg==",
+  "success": true,
+  "projectFilePath": "/Users/sshetty/TM/codestream/SriMicroservice/SriMicroservice.csproj",
+  "expectedPackageFiles": [
+    "/Users/sshetty/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/sshetty/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/sshetty/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/sshetty/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/sshetty/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/sshetty/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
